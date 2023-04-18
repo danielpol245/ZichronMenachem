@@ -8,7 +8,7 @@
 
 👤 **Amit Cohen, Hananel Sabag, Daniel Politi and Yuval Ballas.**
 
-* Github: [@Amit-cohen1](https://github.com/Amit-cohen1)
+* Github: [@Amit-cohen1](https://github.com/Amit-cohen1)[@HananaelSabag](https://github.com/HananaelSabag)[@danielpol245](https://github.com/danielpol245)[@Yuval Ballas](https://github.com/YuavalBallas)
 * LinkedIn: [@amit-cohen-engineering-student](https://linkedin.com/in/amit-cohen-engineering-student)
 
 ## Show your support
