@@ -2,7 +2,7 @@
 <p>
 </p>
 
->  Manage the medical details for the Medical staff of the organization
+>  Manage the medical details for the Medical staff of the organization. Zichron Menachem is a non-profit organzition that help kids and their families to go through the hard fight with cancer.
 
 ## Author
 
