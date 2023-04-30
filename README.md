@@ -12,9 +12,11 @@
 * LinkedIn: [@amit-cohen-engineering-student](https://linkedin.com/in/amit-cohen-engineering-student)
 
 <h2>High Level Architecture<h2>
-<a href="https://ibb.co/yfpT5Gb"><img src="https://i.ibb.co/JBqL20M/Data-Base-Layout.jpg" alt="Data-Base-Layout" border="0" /></a>
+<a href="https://ibb.co/y8dvV4P"><img src="https://i.ibb.co/K9b4mKh/High-Level-Architecthure.jpg" alt="High-Level-Architecthure" border="0" /></a> 
+  
 <h2>Data Base Layout<h2>
-<img src="https://ibb.co/y8dvV4P">
+<a href="https://ibb.co/yfpT5Gb"><img src="https://i.ibb.co/JBqL20M/Data-Base-Layout.jpg" alt="Data-Base-Layout" border="0" /></a>
+
 
 
 Give a ⭐️ if this project helped you!
