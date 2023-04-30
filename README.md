@@ -12,7 +12,7 @@
 * LinkedIn: [@amit-cohen-engineering-student](https://linkedin.com/in/amit-cohen-engineering-student)
 
 <h2>High Level Architecture<h2>
-<img src="https://ibb.co/yfpT5Gb">
+<img src="[https://ibb.co/yfpT5Gb](https://ibb.co/yfpT5Gb)">
 
 <h2>Data Base Layout<h2>
 <img src="https://ibb.co/y8dvV4P">
